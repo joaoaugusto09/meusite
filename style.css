@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image: url(http://saomarcos.br/wordpress/faculdade/wp-content/uploads/2019/03/aviao-1280x640.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    text-align: center;
+    color: #ffffff;
+    position: relative;
+}
+#texto{
+  padding-top: 100px;
+}
+main div{
+    justify-content: center;
+    text-align: center;
+    margin: 50px;
+}
+footer{
+    text-align: center;
+    height: 200px;
+    background-color: black;
+    color: white;
+}
